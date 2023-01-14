@@ -19,7 +19,6 @@
   font-size: 1.5rem;
   font-weight: 500;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  text-decoration: none;
   transition: all 1s;
 }
 .nav__link:hover {
@@ -36,6 +35,31 @@
   background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../../img/model-1.jpg");
   background-position: center, center;
   background-size: cover;
+}
+
+.home {
+  border: 2px solid red;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 2.5rem;
+  color: #eee;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
 }
 
 /*# sourceMappingURL=main.css.map */

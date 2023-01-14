@@ -31,9 +31,10 @@
 }
 
 .home-bgImg-container {
-  background-image: url(../../img/model-1.jpg);
   height: 100vh;
-  background-position: center center;
+  width: 100%;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../../img/model-1.jpg");
+  background-position: center, center;
   background-size: cover;
 }
 

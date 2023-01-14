@@ -7,14 +7,9 @@
 
 ## Description
 
-Project aims to create website site using sass.
-
-## Problem Statement
-
-- Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
+I aim to create website site using sass.
 
 ## Project Skeleton 
-
 ```
 005-Sass-website-page-design (folder)
 |
@@ -44,15 +39,6 @@ Project aims to create website site using sass.
         |----img (folder)
 ```
 
-## Expected Outcome
-
-![Project 005 Snapshot](Sass.gif) 
-
-
-
-## Objective
-
-Make a web page like in the [example project](https://harveycla.github.io/Wednesday_Addams_Sass_Portfolio/).
 
 ### At the end of the project, I covered following topics;
 

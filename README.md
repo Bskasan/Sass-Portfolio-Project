@@ -1,4 +1,4 @@
-<p>Clarusway<img align="right"
+<p>Bekir Sadik Kasan<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-005 : Sass Website Page Design
@@ -18,8 +18,8 @@ Project aims to create website site using sass.
 ```
 005-Sass-website-page-design (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
+|----readme.md                  
+|----images               
 |----solution
         |----index.html  
         |----css (folder)   
@@ -54,7 +54,7 @@ Project aims to create website site using sass.
 
 Make a web page like in the [example project](https://harveycla.github.io/Wednesday_Addams_Sass_Portfolio/).
 
-### At the end of the project, following topics are to be covered;
+### At the end of the project, I covered following topics;
 
 - HTML 
 
@@ -62,41 +62,13 @@ Make a web page like in the [example project](https://harveycla.github.io/Wednes
 
 - Sass / Scss
 
-### At the end of the project, students will be able to;
+### With this project I am able to;
 
 - improve coding skills within HTML, CSS & Sass/Scss
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution 
 
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Sass Website.
-
->>Part-1 HTML Structure
-
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
-
->>Part-2 Sass / Scss Structure
-
-	- Set a background
-	- Set color and margin etc..
-	- Define others color-size-padding etc with scss
-
-  
-
-- Step 3: Push your application into your own public repo on Github
-
-- Step 4: Deploy your application on Github template to showcase your app within your team.
-
-## Notes
-
-- You can use HTML and CSS to complete this project.
 
 ## Resources
 

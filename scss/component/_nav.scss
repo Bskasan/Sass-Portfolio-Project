@@ -1,5 +1,4 @@
 .nav{
-    border: 2px solid red;
     height: 10vh;
     padding: 1rem;
 
@@ -8,15 +7,21 @@
     }
     &__item{
         display: inline;
+        padding: 1rem;
     }
     &__link{
         font-size: 1.5rem;
         font-weight: 500;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-family: $font-family;
         text-decoration: none;
+        @include transition(1s);
+
         &:hover{
             color: blue($color: #000000);
             text-decoration: underline;
+        }
+        &--active{
+            color: $secondary-color;
         }
 
     }

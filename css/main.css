@@ -46,6 +46,34 @@ footer.horizontal {
   color: #ff652f;
 }
 
+.about-bgImg-container {
+  height: 50vh;
+  width: 100%;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../../img/model-1.jpg");
+  background-position: center, center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.about-bgImg-container .about__bio-image {
+  text-align: center;
+}
+.about-bgImg-container .about__bio-image h2 {
+  font-size: 3rem;
+  color: #ff652f;
+}
+.about-bgImg-container .about__bio-image p {
+  font-size: 1.2rem;
+  margin: 2rem;
+  line-height: 1.5rem;
+}
+
+.about__container {
+  border: 2px solid red;
+  width: 70vw;
+  margin: 2rem auto;
+}
 .home-bgImg-container {
   height: 100vh;
   width: 100%;
@@ -78,6 +106,7 @@ body {
   line-height: 2.5rem;
   color: #eee;
   height: 100vh;
+  background-color: #272727;
 }
 
 a {

@@ -1,4 +1,6 @@
-//************************* MIXINS **************************//
+//*****************************************************
+//*   Mixins
+//*****************************************************
 
 @mixin transition($sec) {
   transition: all $sec;
@@ -13,6 +15,36 @@
       rgba($primary-color, 0.3)
     ),
     url($url);
-  background-position: center, center;
+  background-position: center center;
   background-size: cover;
+}
+
+@mixin media-xsm {
+  @media screen and (min-width: 0px) {
+    @content;
+  }
+}
+
+@mixin media-sm {
+  @media screen and (min-width: 576px) {
+    @content;
+  }
+}
+
+@mixin media-md {
+  @media screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin media-lg {
+  @media screen and (min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin media-xl {
+  @media screen and (min-width: 1600px) {
+    @content;
+  }
 }

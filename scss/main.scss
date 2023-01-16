@@ -2,6 +2,7 @@
 @import "./abstracts/mixins", "./abstracts/variables";
 @import "./component/footer", "./component/nav", "./component/responsive";
 @import "./pages/about", "./pages/contact", "./pages/home", "./pages/projects";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css");
 
 body {
   font-family: $font-family;
@@ -15,6 +16,8 @@ a {
   color: $text-color;
 }
 
-h1,h2,h3{
-    font-weight: 400;
+h1,
+h2,
+h3 {
+  font-weight: 400;
 }

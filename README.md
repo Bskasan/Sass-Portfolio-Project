@@ -1,7 +1,7 @@
 <p>Bekir Sadik Kasan<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Sass Website Page Design
+# Project: Sass Website Page Design
 
 ![WednesdayAdams](https://user-images.githubusercontent.com/53233822/212578032-536956cc-908b-404c-a7be-7f2aa9998f69.PNG)
 

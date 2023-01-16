@@ -3,7 +3,7 @@
 
 # Project-005 : Sass Website Page Design
 
-
+![WednesdayAdams](https://user-images.githubusercontent.com/53233822/212578032-536956cc-908b-404c-a7be-7f2aa9998f69.PNG)
 
 ## Description
 
